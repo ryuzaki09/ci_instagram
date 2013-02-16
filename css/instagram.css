@@ -1,0 +1,4 @@
+.cont { width:400px; margin:0 auto; text-align: center; padding:10px; border:1px solid #cacaca; font-family:Arial; }
+.title { background-color:#64aeef; color:#FFFFFF; font-size:34px; padding:10px; }
+.list_cont { padding:10px; border-top: 1px solid #cacaca; }
+.author { font-size:12px; font-style:italic; }
