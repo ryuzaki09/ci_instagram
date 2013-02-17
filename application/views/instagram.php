@@ -3,7 +3,7 @@
 	<div class="title"> Instagram</div>
 	<?php
 	$count =0;
-	foreach($popular_media->data as $data) {
+	foreach($popular_media as $data) {
 		/*
 		// To see all the data that each media item contains uncomment the following		
 		echo '<pre>';
